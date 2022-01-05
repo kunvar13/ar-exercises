@@ -13,3 +13,4 @@ puts "----------"
 @store1.name = "Regina";
 
 @store1.save
+@store2.save
